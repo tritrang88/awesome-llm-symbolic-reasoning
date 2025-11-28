@@ -1,6 +1,4 @@
-# 🧠 Awesome LLM Reasoning
-
-[![GitHub](https://img.shields.io/github/stars/tritrang88/awesome-llm-reasoning?style=social)]()
+# 🧠 Awesome LLM Symbolic Reasoning
 
 **Bridging Neural Networks and Symbolic Reasoning in the Age of Large Language Models**
 
@@ -8,6 +6,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Auto Updated](https://img.shields.io/badge/papers-auto--updated-blue)
+[![GitHub stars](https://img.shields.io/github/stars/tritrang88/awesome-llm-symbolic-reasoning?style=social)](https://github.com/tritrang88/awesome-llm-symbolic-reasoning)
+[![GitHub forks](https://img.shields.io/github/forks/tritrang88/awesome-llm-symbolic-reasoning?style=social)](https://github.com/tritrang88/awesome-llm-symbolic-reasoning/fork)
 
 [⭐ Top Papers](#-top-tier-conference-papers-a) • [📚 Topics](#table-of-contents) • [🚀 Quick Start](#-quick-start) • [📬 Contributing](#-contributing)
 
@@ -89,15 +89,31 @@ Natural Language → LLM Parser → Formal Logic → Symbolic Solver → Verifie
 
 Contributions are welcome! 
 
-- 🐛 **Found a bug?** → Open an issue
-- 📄 **Know a paper we missed?** → Submit a PR
+- 🐛 **Found a bug?** → [Open an issue](https://github.com/tritrang88/awesome-llm-symbolic-reasoning/issues)
+- 📄 **Know a paper we missed?** → [Submit a PR](https://github.com/tritrang88/awesome-llm-symbolic-reasoning/pulls)
 - 💡 **Have suggestions?** → We'd love to hear them
+
+---
+
+## 📖 Citation
+
+If you find this repository useful for your research, please consider citing:
+
+```bibtex
+@misc{awesome-llm-symbolic-reasoning,
+  author = {Tri Trang},
+  title = {Awesome LLM Symbolic Reasoning: A Curated Paper Collection},
+  year = {2025},
+  publisher = {GitHub},
+  url = {https://github.com/tritrang88/awesome-llm-symbolic-reasoning}
+}
+```
 
 ---
 
 ## ⭐ Star History
 
-If you find this repository useful, please consider giving it a star! ⭐
+[![Star History Chart](https://api.star-history.com/svg?repos=tritrang88/awesome-llm-symbolic-reasoning&type=Date)](https://star-history.com/#tritrang88/awesome-llm-symbolic-reasoning&Date)
 
 ---
 
