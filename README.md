@@ -111,12 +111,6 @@ If you find this repository useful for your research, please consider citing:
 
 ---
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tritrang88/awesome-llm-symbolic-reasoning&type=Date)](https://star-history.com/#tritrang88/awesome-llm-symbolic-reasoning&Date)
-
----
-
 ## 🔄 Updated on 2025.11.28
 
 > 📊 **Total Papers**: 1499 | **Top-Tier (A*)**: 283 | **Topics**: 6
