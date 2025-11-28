@@ -1,4 +1,6 @@
-# 🧠 Neuro-Symbolic Learning with LLMs
+# 🧠 Awesome LLM Reasoning
+
+[![GitHub](https://img.shields.io/github/stars/tritrang88/awesome-llm-reasoning?style=social)]()
 
 **Bridging Neural Networks and Symbolic Reasoning in the Age of Large Language Models**
 
