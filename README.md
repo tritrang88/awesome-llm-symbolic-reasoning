@@ -101,7 +101,7 @@ If you find this repository useful for your research, please consider citing:
 
 ```bibtex
 @misc{awesome-llm-symbolic-reasoning,
-  author = {Tri Trang},
+  author = {Tri Trang, Badran Raddaoui, Yue Ma, Said Jabbour},
   title = {Awesome LLM Symbolic Reasoning: A Curated Paper Collection},
   year = {2025},
   publisher = {GitHub},
