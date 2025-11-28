@@ -2478,4 +2478,4 @@ If you find this repository useful for your research, please consider citing:
 |**2023-10-19**|**Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**|Liangming Pan et.al.|[2305.12295](http://arxiv.org/abs/2305.12295)|null|⭐ EMNLP 2023 (Findings, long paper)|
 |**2023-03-07**|**Self-Consistency Improves Chain of Thought Reasoning in Language Models**|Xuezhi Wang et.al.|[2203.11171](http://arxiv.org/abs/2203.11171)|null|⭐ Published at ICLR 2023. V2: added PaLM results; V3: added UL2 results; V4: camera ready version at ICLR 2023|
 
-<p align=right>(<a href=#updated-on-20251128>back to top</a>)</p>
+<p align=right>(<a href=#-top-tier-conference-papers-a>back to top</a>)</p>
